@@ -1,6 +1,6 @@
 import scrapy
 import re
-# run in bash: scrapy runspider scraper.py
+# run in bash: scrapy runspider scraper.py ; scrapy crawl snopes_spider -o TitleAndLink2.csv
 
 
 class SnopesSetSpider(scrapy.Spider):
