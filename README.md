@@ -1,5 +1,6 @@
 # snopes_scraper_v2
-Python Crawler Based on Scrapy for summer research on fake news
+Python Crawler Based on Scrapy for summer research on fake news.
+The spider will crawl data from https://www.snopes.com/fact-check/category/photos/
 
 ## Dependency
 Before using the spider, make sure you have installed following dependencies:
